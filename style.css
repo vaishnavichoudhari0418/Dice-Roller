@@ -1,0 +1,36 @@
+body{
+margin: 0%;
+padding: 0%;
+background-color: #b1fadf;
+color: #027b4f;
+}
+.dice-container{
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+    justify-content: center;
+    margin: 500px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 500px;
+    background-color: white;
+}
+.img{
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 50px;
+
+}
+.btn{
+   width: 100px;
+   margin-bottom: 20px;
+   margin-left: 200px;
+   padding: 10px;
+   border-radius: 20px;
+   cursor: pointer;
+   background-color: #b1fadf;
+   color:#027b4f;
+   border: 0px ;
+
+}
